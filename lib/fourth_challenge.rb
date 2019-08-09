@@ -16,6 +16,7 @@ def fourth_challenge
       }
         #your hashes here!
       ]
+   }
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
